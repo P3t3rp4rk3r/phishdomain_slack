@@ -2,7 +2,7 @@
 
 Catching malicious phishing domain names using [certstream](https://certstream.calidog.io/) SSL certificates live stream.
 
-This script is alerting through slack, if any phishing domains found related to your organization. if you want to track all suspicious domains in splunk, please monitor suspicious_domains.log file. 
+This script is alerting through slack, if any phishing domains found related to your organization. if you want to track all suspicious domains in splunk, please monitor phishing_enterprise_domains.log file. 
 
 
 ### Installation
